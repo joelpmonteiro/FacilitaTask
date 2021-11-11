@@ -2,12 +2,25 @@
 FacilitaTask
 
 # Sumário
+* [Rodando APP]()
+* [Bibliotecas usadas]()
 * [FacilitaTask](#facilitatask---explicação-do-codigoconstrução-do-codigo-e-plus)
 * [FacilitaTask - Construção do app](#facilitatask---construção-do-app)
 * [Desafio - todoList](#desafio---todolist)
 * [Plus Nivel 1 e Nivel 2](#plus-nivel-1-e-nivel-2)
 * [Explicando Codigo](#explicando-codigo) 
 
+## Como Rodar aplicação
+- Instale as dependencias com ``npm install``
+  - npm install
+- Rodando app, ele vai ser rodado na porta 8080
+  - npm run serve
+
+## Bibliotecas usadas
+- Vue - 2.6.2
+- Vuex - 3.6.2
+- Vue Router - 3.2.0
+- Stylus - pré-processador CSS
 
 ## FacilitaTask - (Explicação do codigo,Construção do codigo e Plus)
 
