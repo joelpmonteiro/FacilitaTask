@@ -2,8 +2,8 @@
 FacilitaTask
 
 # Sumário
-* [Rodando APP]()
-* [Bibliotecas usadas]()
+* [Rodando APP](#como-rodar-aplicação)
+* [Bibliotecas usadas](#bibliotecas-usadas)
 * [FacilitaTask](#facilitatask---explicação-do-codigoconstrução-do-codigo-e-plus)
 * [FacilitaTask - Construção do app](#facilitatask---construção-do-app)
 * [Desafio - todoList](#desafio---todolist)
@@ -17,10 +17,10 @@ FacilitaTask
   - npm run serve
 
 ## Bibliotecas usadas
-- Vue - 2.6.2
-- Vuex - 3.6.2
-- Vue Router - 3.2.0
-- Stylus - pré-processador CSS
+- [Vue - 2.6.2](https://vuejs.org/v2/guide/)
+- [Vuex - 3.6.2](https://vuex.vuejs.org/)
+- [Vue Router - 3.2.0](https://router.vuejs.org/installation.html)
+- [Stylus - pré-processador CSS](https://stylus-lang.com/)
 
 ## FacilitaTask - (Explicação do codigo,Construção do codigo e Plus)
 
