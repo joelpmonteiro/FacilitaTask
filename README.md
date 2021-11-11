@@ -3,8 +3,11 @@ FacilitaTask
 
 # Sumário
 * [FacilitaTask](#facilitatask---explicação-do-codigoconstrução-do-codigo-e-plus)
-* [FacilitaTask - Construção do app](##facilitatask---construção-do-app)
+* [FacilitaTask - Construção do app](#facilitatask---construção-do-app)
 * [Desafio - todoList](#desafio---todolist)
+* [Plus Nivel 1 e Nivel 2](#plus-nivel-1-e-nivel-2)
+* [Explicando Codigo](#explicando-codigo) 
+
 
 ## FacilitaTask - (Explicação do codigo,Construção do codigo e Plus)
 
