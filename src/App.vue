@@ -1,0 +1,95 @@
+<template>
+  <div id="app">
+    <router-view />
+  </div>
+</template>
+
+<style lang="stylus">
+@import "~@/assets/font.styl"
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button {
+    -webkit-box-sizing: content-box;
+       -moz-box-sizing: content-box;
+            box-sizing: content-box;
+}
+
+/* Reset `button` and button-style `input` default styles */
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button {
+    background: none;
+    border: 0;
+    color: inherit;
+    /* cursor: default; */
+    font: inherit;
+    line-height: normal;
+    overflow: visible;
+    padding: 0;
+    -webkit-appearance: button; /* for input */
+    -webkit-user-select: none; /* for button */
+       -moz-user-select: none;
+        -ms-user-select: none;
+}
+input::-moz-focus-inner,
+button::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+/* Make `a` like a button */
+[role="button"] {
+    color: inherit;
+    cursor: default;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    white-space: pre;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+}
+
+
+/* Demo */
+[role="button"],
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button {
+    background-color: #f0f0f0;
+    border: 1px solid rgb(0, 0, 0);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 0.25em;
+    height: 2.5em;
+    line-height: 2.5;
+    margin: 0.25em;
+    padding: 0 1em;
+    width: 14em;
+}
+
+
+
+@font-face
+  font-family: "SVN-Gilroy"
+  src: url("./assets/fonts/SVN-Gilroy Medium.ttf")
+
+* {
+  font-family: "SVN-Gilroy"
+  box-sizing: border-box;
+}
+
+
+
+body
+ width:100%
+ height:100vh
+ padding: 0
+ margin: 0
+ top: 0
+ left: 0
+ position: relative
+ font-family: Droid Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+</style>
