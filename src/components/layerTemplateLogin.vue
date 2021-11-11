@@ -122,6 +122,17 @@ export default {
   .form-control
     width: 368px
     height: 55px
+    font-size: 1em
+    font-weight: bold
+    color: #aecbde !important
+    background: transparent
+    border: 2px solid #aecbde
+    border-radius: 7px
+    padding: 5px 5px 5px 20px
+    &:hover
+      border: 2px solid #2693FF
+
+
 
 
 .flex-start
